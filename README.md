@@ -19,6 +19,8 @@
 
 ## 成果物
 
+https://github.com/furuhashilab/gsi_airportmap/blob/main/photos.png?raw=true
+
 [GeoJSONファイル](https://github.com/furuhashilab/gsi_airportmap/blob/main/datas)
 
 https://github.com/furuhashilab/gsi_airportmap/blob/main/map.geojson
