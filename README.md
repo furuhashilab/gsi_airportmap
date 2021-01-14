@@ -4,16 +4,18 @@
 
 ### 背景
 地理院地図においてDIDは表示されるが、飛行場範囲は反映されていないため
+
 →飛行禁止範囲区域を指定するのは非常に複雑なため、飛行場一覧まとめをGeoJSONファイルで記録する
 
 ### レギュレーション
-緯度経度は、地理院地図電子国土WEBから参照とする
+緯度経度は、[地理院地図電子国土WEB](https://maps.gsi.go.jp/#5/35.478565/133.923340/&base=std&ls=std&disp=1&vs=c1j0h0k0l0u0t0z0r0s0m0f1)から参照とする
+
 └緯度経度のズレを防ぐため
 対象地は国土交通省が提示している空港とヘリポート全般とする
 
 ### 参照
-スプレッドシート
-飛行場一覧
+[スプレッドシート](https://docs.google.com/spreadsheets/d/1_FmYhHCpE0Rr_SXBGBOUYrPH_LQg79eK37jVMataZUg/edit#gid=0)
+[飛行場一覧](https://www.mlit.go.jp/koku/15_bf_000310.html)
 
 ## 成果物
 
