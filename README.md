@@ -1,3 +1,3 @@
-[GeoJSON.ioファイル](https://github.com/furuhashilab/gsi_airportmap/blob/main/datas)
+[GeoJSONファイル](https://github.com/furuhashilab/gsi_airportmap/blob/main/datas)
 
 https://github.com/furuhashilab/gsi_airportmap/blob/main/map.geojson
