@@ -19,7 +19,7 @@
 
 ## 成果物
 
-<img width="1440" alt="map2d" src=https://github.com/furuhashilab/gsi_airportmap/blob/main/photos.png?raw=true">
+<img width="1440" alt="map2d" src="https://github.com/furuhashilab/gsi_airportmap/blob/main/photos.png?raw=true">
 
 [GeoJSONファイル](https://github.com/furuhashilab/gsi_airportmap/blob/main/datas)
 
