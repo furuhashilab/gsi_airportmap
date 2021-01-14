@@ -14,8 +14,8 @@
 対象地は国土交通省が提示している空港とヘリポート全般とする
 
 ### 参照
-[スプレッドシート](https://docs.google.com/spreadsheets/d/1_FmYhHCpE0Rr_SXBGBOUYrPH_LQg79eK37jVMataZUg/edit#gid=0)
-[飛行場一覧](https://www.mlit.go.jp/koku/15_bf_000310.html)
+* [スプレッドシート](https://docs.google.com/spreadsheets/d/1_FmYhHCpE0Rr_SXBGBOUYrPH_LQg79eK37jVMataZUg/edit#gid=0)
+* [飛行場一覧](https://www.mlit.go.jp/koku/15_bf_000310.html)
 
 ## 成果物
 
