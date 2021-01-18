@@ -5,8 +5,9 @@
       "type": "Feature",
       "properties": {
         "name": "成田国際空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -21,8 +22,9 @@
       "type": "Feature",
       "properties": {
         "name": "中部国際空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -37,8 +39,9 @@
       "type": "Feature",
       "properties": {
         "name": "関西国際空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -53,8 +56,9 @@
       "type": "Feature",
       "properties": {
         "name": "大阪国際空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -69,8 +73,9 @@
       "type": "Feature",
       "properties": {
         "name": "東京国際空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -85,6 +90,7 @@
       "type": "Feature",
       "properties": {
         "name": "新千歳空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -101,6 +107,7 @@
       "type": "Feature",
       "properties": {
         "name": "稚内空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -117,8 +124,9 @@
       "type": "Feature",
       "properties": {
         "name": "釧路空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -133,8 +141,9 @@
       "type": "Feature",
       "properties": {
         "name": "函館空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -149,8 +158,9 @@
       "type": "Feature",
       "properties": {
         "name": "仙台空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -165,6 +175,7 @@
       "type": "Feature",
       "properties": {
         "name": "新潟空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -181,6 +192,7 @@
       "type": "Feature",
       "properties": {
         "name": "広島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -197,6 +209,7 @@
       "type": "Feature",
       "properties": {
         "name": "高松空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -213,8 +226,9 @@
       "type": "Feature",
       "properties": {
         "name": "松山空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -229,6 +243,7 @@
       "type": "Feature",
       "properties": {
         "name": "高知空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -245,8 +260,9 @@
       "type": "Feature",
       "properties": {
         "name": "福岡空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -261,6 +277,7 @@
       "type": "Feature",
       "properties": {
         "name": "北九州空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -277,8 +294,9 @@
       "type": "Feature",
       "properties": {
         "name": "長崎空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -293,8 +311,9 @@
       "type": "Feature",
       "properties": {
         "name": "熊本空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -309,8 +328,9 @@
       "type": "Feature",
       "properties": {
         "name": "大分空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -325,8 +345,9 @@
       "type": "Feature",
       "properties": {
         "name": "宮崎空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -341,8 +362,9 @@
       "type": "Feature",
       "properties": {
         "name": "鹿児島空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -357,8 +379,9 @@
       "type": "Feature",
       "properties": {
         "name": "那覇空港",
-        "marker-color": "",
-        "marker-size": "medium",
+        "attribute": "furuhashilabs",
+        "marker-color": "#0400fa",
+        "marker-size": "large",
         "marker-symbol": "airport"
       },
       "geometry": {
@@ -373,6 +396,7 @@
       "type": "Feature",
       "properties": {
         "name": "旭川空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -389,6 +413,7 @@
       "type": "Feature",
       "properties": {
         "name": "帯広空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -405,6 +430,7 @@
       "type": "Feature",
       "properties": {
         "name": "秋田空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -421,6 +447,7 @@
       "type": "Feature",
       "properties": {
         "name": "山形空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -437,6 +464,7 @@
       "type": "Feature",
       "properties": {
         "name": "山口宇部空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -453,6 +481,7 @@
       "type": "Feature",
       "properties": {
         "name": "利尻空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -469,6 +498,7 @@
       "type": "Feature",
       "properties": {
         "name": "礼文空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -485,6 +515,7 @@
       "type": "Feature",
       "properties": {
         "name": "奥尻空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -501,6 +532,7 @@
       "type": "Feature",
       "properties": {
         "name": "中標津空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -517,6 +549,7 @@
       "type": "Feature",
       "properties": {
         "name": "紋別空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -533,6 +566,7 @@
       "type": "Feature",
       "properties": {
         "name": "女満別空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -549,6 +583,7 @@
       "type": "Feature",
       "properties": {
         "name": "青森空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -565,6 +600,7 @@
       "type": "Feature",
       "properties": {
         "name": "花巻空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -581,6 +617,7 @@
       "type": "Feature",
       "properties": {
         "name": "大館能代空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -597,6 +634,7 @@
       "type": "Feature",
       "properties": {
         "name": "庄内空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -613,6 +651,7 @@
       "type": "Feature",
       "properties": {
         "name": "福島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -629,6 +668,7 @@
       "type": "Feature",
       "properties": {
         "name": "大島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -645,6 +685,7 @@
       "type": "Feature",
       "properties": {
         "name": "新島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -661,6 +702,7 @@
       "type": "Feature",
       "properties": {
         "name": "神津島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -677,6 +719,7 @@
       "type": "Feature",
       "properties": {
         "name": "三宅島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -693,6 +736,7 @@
       "type": "Feature",
       "properties": {
         "name": "八丈島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -709,6 +753,7 @@
       "type": "Feature",
       "properties": {
         "name": "佐渡空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -725,6 +770,7 @@
       "type": "Feature",
       "properties": {
         "name": "松本空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -741,6 +787,7 @@
       "type": "Feature",
       "properties": {
         "name": "静岡空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -757,6 +804,7 @@
       "type": "Feature",
       "properties": {
         "name": "富山空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -773,6 +821,7 @@
       "type": "Feature",
       "properties": {
         "name": "能登空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -789,6 +838,7 @@
       "type": "Feature",
       "properties": {
         "name": "福井空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -805,6 +855,7 @@
       "type": "Feature",
       "properties": {
         "name": "神戸空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -821,6 +872,7 @@
       "type": "Feature",
       "properties": {
         "name": "南紀白浜空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -837,6 +889,7 @@
       "type": "Feature",
       "properties": {
         "name": "鳥取空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -853,6 +906,7 @@
       "type": "Feature",
       "properties": {
         "name": "隠岐空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -869,6 +923,7 @@
       "type": "Feature",
       "properties": {
         "name": "出雲空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -885,6 +940,7 @@
       "type": "Feature",
       "properties": {
         "name": "石見空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -901,6 +957,7 @@
       "type": "Feature",
       "properties": {
         "name": "岡山空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -917,6 +974,7 @@
       "type": "Feature",
       "properties": {
         "name": "佐賀空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -933,6 +991,7 @@
       "type": "Feature",
       "properties": {
         "name": "対馬空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -949,6 +1008,7 @@
       "type": "Feature",
       "properties": {
         "name": "小値賀空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -965,6 +1025,7 @@
       "type": "Feature",
       "properties": {
         "name": "福江空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -981,6 +1042,7 @@
       "type": "Feature",
       "properties": {
         "name": "上五島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -997,6 +1059,7 @@
       "type": "Feature",
       "properties": {
         "name": "壱岐空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1013,6 +1076,7 @@
       "type": "Feature",
       "properties": {
         "name": "種子島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1029,6 +1093,7 @@
       "type": "Feature",
       "properties": {
         "name": "屋久島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1045,6 +1110,7 @@
       "type": "Feature",
       "properties": {
         "name": "奄美空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1061,6 +1127,7 @@
       "type": "Feature",
       "properties": {
         "name": "喜界空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1077,6 +1144,7 @@
       "type": "Feature",
       "properties": {
         "name": "徳之島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1093,6 +1161,7 @@
       "type": "Feature",
       "properties": {
         "name": "沖永良部空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1109,6 +1178,7 @@
       "type": "Feature",
       "properties": {
         "name": "与論空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1125,6 +1195,7 @@
       "type": "Feature",
       "properties": {
         "name": "粟国空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1141,6 +1212,7 @@
       "type": "Feature",
       "properties": {
         "name": "久米島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1157,6 +1229,7 @@
       "type": "Feature",
       "properties": {
         "name": "慶良間空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1173,6 +1246,7 @@
       "type": "Feature",
       "properties": {
         "name": "南大東空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1189,6 +1263,7 @@
       "type": "Feature",
       "properties": {
         "name": "北大東空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1205,6 +1280,7 @@
       "type": "Feature",
       "properties": {
         "name": "伊江島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1221,6 +1297,7 @@
       "type": "Feature",
       "properties": {
         "name": "宮古空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1237,6 +1314,7 @@
       "type": "Feature",
       "properties": {
         "name": "下地島空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1253,6 +1331,7 @@
       "type": "Feature",
       "properties": {
         "name": "多良間空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1269,6 +1348,7 @@
       "type": "Feature",
       "properties": {
         "name": "新石垣空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1285,6 +1365,7 @@
       "type": "Feature",
       "properties": {
         "name": "波照間空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1301,6 +1382,7 @@
       "type": "Feature",
       "properties": {
         "name": "与那国空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1317,6 +1399,7 @@
       "type": "Feature",
       "properties": {
         "name": "調布飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1333,6 +1416,7 @@
       "type": "Feature",
       "properties": {
         "name": "名古屋飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1349,6 +1433,7 @@
       "type": "Feature",
       "properties": {
         "name": "但馬飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1365,6 +1450,7 @@
       "type": "Feature",
       "properties": {
         "name": "岡南飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1381,6 +1467,7 @@
       "type": "Feature",
       "properties": {
         "name": "天草飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1397,6 +1484,7 @@
       "type": "Feature",
       "properties": {
         "name": "大分県央飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1413,6 +1501,7 @@
       "type": "Feature",
       "properties": {
         "name": "八尾空港",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1429,6 +1518,7 @@
       "type": "Feature",
       "properties": {
         "name": "札幌飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1445,6 +1535,7 @@
       "type": "Feature",
       "properties": {
         "name": "千歳飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1461,6 +1552,7 @@
       "type": "Feature",
       "properties": {
         "name": "三沢飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1477,6 +1569,7 @@
       "type": "Feature",
       "properties": {
         "name": "百里飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1493,6 +1586,7 @@
       "type": "Feature",
       "properties": {
         "name": "小松飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1509,6 +1603,7 @@
       "type": "Feature",
       "properties": {
         "name": "美保飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1525,6 +1620,7 @@
       "type": "Feature",
       "properties": {
         "name": "岩国飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1541,6 +1637,7 @@
       "type": "Feature",
       "properties": {
         "name": "徳島飛行場",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "airport"
@@ -1557,6 +1654,7 @@
       "type": "Feature",
       "properties": {
         "name": "豊富",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1573,6 +1671,7 @@
       "type": "Feature",
       "properties": {
         "name": "米沢",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1589,6 +1688,7 @@
       "type": "Feature",
       "properties": {
         "name": "つくば",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1605,6 +1705,7 @@
       "type": "Feature",
       "properties": {
         "name": "栃木",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1621,6 +1722,7 @@
       "type": "Feature",
       "properties": {
         "name": "群馬",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1637,6 +1739,7 @@
       "type": "Feature",
       "properties": {
         "name": "高崎",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1653,6 +1756,7 @@
       "type": "Feature",
       "properties": {
         "name": "東京都東京",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1669,6 +1773,7 @@
       "type": "Feature",
       "properties": {
         "name": "静岡",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1685,6 +1790,7 @@
       "type": "Feature",
       "properties": {
         "name": "若狭",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1701,6 +1807,7 @@
       "type": "Feature",
       "properties": {
         "name": "津市伊勢湾",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1717,6 +1824,7 @@
       "type": "Feature",
       "properties": {
         "name": "奈良県",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1733,6 +1841,7 @@
       "type": "Feature",
       "properties": {
         "name": "広島",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1749,6 +1858,7 @@
       "type": "Feature",
       "properties": {
         "name": "枕崎",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1765,6 +1875,7 @@
       "type": "Feature",
       "properties": {
         "name": "北海道警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1781,6 +1892,7 @@
       "type": "Feature",
       "properties": {
         "name": "青森県庁",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1797,6 +1909,7 @@
       "type": "Feature",
       "properties": {
         "name": "岩手県警察盛岡",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1813,6 +1926,7 @@
       "type": "Feature",
       "properties": {
         "name": "宮城県庁",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1829,6 +1943,7 @@
       "type": "Feature",
       "properties": {
         "name": "東北地方整備局",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1845,6 +1960,7 @@
       "type": "Feature",
       "properties": {
         "name": "福島県警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1861,6 +1977,7 @@
       "type": "Feature",
       "properties": {
         "name": "茨城県庁",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1877,6 +1994,7 @@
       "type": "Feature",
       "properties": {
         "name": "前山下妻",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1893,6 +2011,7 @@
       "type": "Feature",
       "properties": {
         "name": "みかも",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1909,6 +2028,7 @@
       "type": "Feature",
       "properties": {
         "name": "群馬県警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1925,6 +2045,7 @@
       "type": "Feature",
       "properties": {
         "name": "プラス",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1941,6 +2062,7 @@
       "type": "Feature",
       "properties": {
         "name": "さいたま広域防災拠点",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1957,6 +2079,7 @@
       "type": "Feature",
       "properties": {
         "name": "朝日・川越",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1973,6 +2096,7 @@
       "type": "Feature",
       "properties": {
         "name": "美樹",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -1989,6 +2113,7 @@
       "type": "Feature",
       "properties": {
         "name": "浦安",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2005,6 +2130,7 @@
       "type": "Feature",
       "properties": {
         "name": "千葉西総合病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2021,6 +2147,7 @@
       "type": "Feature",
       "properties": {
         "name": "警視庁本部屋上",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2037,6 +2164,7 @@
       "type": "Feature",
       "properties": {
         "name": "中央合同庁舎第２号館",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2053,6 +2181,7 @@
       "type": "Feature",
       "properties": {
         "name": "東京朝日",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2069,6 +2198,7 @@
       "type": "Feature",
       "properties": {
         "name": "アークヒルズ",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2085,6 +2215,7 @@
       "type": "Feature",
       "properties": {
         "name": "芝浦",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2101,6 +2232,7 @@
       "type": "Feature",
       "properties": {
         "name": "神奈川県警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2117,6 +2249,7 @@
       "type": "Feature",
       "properties": {
         "name": "横浜",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2133,6 +2266,7 @@
       "type": "Feature",
       "properties": {
         "name": "山梨県警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2149,6 +2283,7 @@
       "type": "Feature",
       "properties": {
         "name": "山梨県立中央病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2165,6 +2300,7 @@
       "type": "Feature",
       "properties": {
         "name": "日本航空学園双葉",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2181,6 +2317,7 @@
       "type": "Feature",
       "properties": {
         "name": "佐久総合病院佐久医療センター",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2197,6 +2334,7 @@
       "type": "Feature",
       "properties": {
         "name": "浜松市消防",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2213,6 +2351,7 @@
       "type": "Feature",
       "properties": {
         "name": "ＳＢＳ沼津",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2229,6 +2368,7 @@
       "type": "Feature",
       "properties": {
         "name": "ＳＢＳ静岡",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2245,6 +2385,7 @@
       "type": "Feature",
       "properties": {
         "name": "富山県立中央病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2261,6 +2402,7 @@
       "type": "Feature",
       "properties": {
         "name": "富山市民病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2277,6 +2419,7 @@
       "type": "Feature",
       "properties": {
         "name": "砺波総合病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2293,6 +2436,7 @@
       "type": "Feature",
       "properties": {
         "name": "高岡市民病院屋上",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2309,6 +2453,7 @@
       "type": "Feature",
       "properties": {
         "name": "石川県警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2325,6 +2470,7 @@
       "type": "Feature",
       "properties": {
         "name": "福井県立病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2341,6 +2487,7 @@
       "type": "Feature",
       "properties": {
         "name": "岐阜県立多治見病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2357,6 +2504,7 @@
       "type": "Feature",
       "properties": {
         "name": "岐阜県警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2373,6 +2521,7 @@
       "type": "Feature",
       "properties": {
         "name": "岐阜県総合医療センター",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2389,6 +2538,7 @@
       "type": "Feature",
       "properties": {
         "name": "大垣市民病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2405,6 +2555,7 @@
       "type": "Feature",
       "properties": {
         "name": "中濃厚生病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2421,6 +2572,7 @@
       "type": "Feature",
       "properties": {
         "name": "愛知県警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2437,6 +2589,7 @@
       "type": "Feature",
       "properties": {
         "name": "トヨタ名駅",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2453,6 +2606,7 @@
       "type": "Feature",
       "properties": {
         "name": "アルペン丸の内",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2469,6 +2623,7 @@
       "type": "Feature",
       "properties": {
         "name": "三重県警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2485,6 +2640,7 @@
       "type": "Feature",
       "properties": {
         "name": "三重県立総合医療センター",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2501,6 +2657,7 @@
       "type": "Feature",
       "properties": {
         "name": "三重県立志摩病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2517,6 +2674,7 @@
       "type": "Feature",
       "properties": {
         "name": "滋賀県警察本部",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2533,6 +2691,7 @@
       "type": "Feature",
       "properties": {
         "name": "滋賀県警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2549,6 +2708,7 @@
       "type": "Feature",
       "properties": {
         "name": "大阪航空日野",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2565,6 +2725,7 @@
       "type": "Feature",
       "properties": {
         "name": "京都府警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2581,6 +2742,7 @@
       "type": "Feature",
       "properties": {
         "name": "京都府",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2597,6 +2759,7 @@
       "type": "Feature",
       "properties": {
         "name": "京都消防",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2613,6 +2776,7 @@
       "type": "Feature",
       "properties": {
         "name": "大阪府警察本部",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2629,6 +2793,7 @@
       "type": "Feature",
       "properties": {
         "name": "ＮＨＫ大阪",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2645,6 +2810,7 @@
       "type": "Feature",
       "properties": {
         "name": "大阪",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2661,6 +2827,7 @@
       "type": "Feature",
       "properties": {
         "name": "兵庫県庁",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2677,6 +2844,7 @@
       "type": "Feature",
       "properties": {
         "name": "兵庫県警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2693,6 +2861,7 @@
       "type": "Feature",
       "properties": {
         "name": "兵庫県立防災医療センター",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2709,6 +2878,7 @@
       "type": "Feature",
       "properties": {
         "name": "ＮＴＴ神戸中央ビル",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2725,6 +2895,7 @@
       "type": "Feature",
       "properties": {
         "name": "三木防災",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2741,6 +2912,7 @@
       "type": "Feature",
       "properties": {
         "name": "明石川崎",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2757,6 +2929,7 @@
       "type": "Feature",
       "properties": {
         "name": "和歌山県立医科大学附属病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2773,6 +2946,7 @@
       "type": "Feature",
       "properties": {
         "name": "島精機",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2789,6 +2963,7 @@
       "type": "Feature",
       "properties": {
         "name": "小倉Ｃ・Ｃ",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2805,6 +2980,7 @@
       "type": "Feature",
       "properties": {
         "name": "紀南",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2821,6 +2997,7 @@
       "type": "Feature",
       "properties": {
         "name": "島根県立中央病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2837,6 +3014,7 @@
       "type": "Feature",
       "properties": {
         "name": "岡山県庁",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2853,6 +3031,7 @@
       "type": "Feature",
       "properties": {
         "name": "ＮＨＫ広島",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2869,6 +3048,7 @@
       "type": "Feature",
       "properties": {
         "name": "周南",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2885,6 +3065,7 @@
       "type": "Feature",
       "properties": {
         "name": "徳島県警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2901,6 +3082,7 @@
       "type": "Feature",
       "properties": {
         "name": "高知県警察本部",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2917,6 +3099,7 @@
       "type": "Feature",
       "properties": {
         "name": "高知医療センター",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2933,6 +3116,7 @@
       "type": "Feature",
       "properties": {
         "name": "土佐清水",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2949,6 +3133,7 @@
       "type": "Feature",
       "properties": {
         "name": "西日本",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2965,6 +3150,7 @@
       "type": "Feature",
       "properties": {
         "name": "ＮＨＫ福岡",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2981,6 +3167,7 @@
       "type": "Feature",
       "properties": {
         "name": "福岡県済生会福岡総合病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -2997,6 +3184,7 @@
       "type": "Feature",
       "properties": {
         "name": "福岡和白病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3013,6 +3201,7 @@
       "type": "Feature",
       "properties": {
         "name": "九州大学病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3029,6 +3218,7 @@
       "type": "Feature",
       "properties": {
         "name": "福岡市立こども病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3045,6 +3235,7 @@
       "type": "Feature",
       "properties": {
         "name": "久留米大学",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3061,6 +3252,7 @@
       "type": "Feature",
       "properties": {
         "name": "聖マリア病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3077,6 +3269,7 @@
       "type": "Feature",
       "properties": {
         "name": "佐賀大学医学部附属病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3093,6 +3286,7 @@
       "type": "Feature",
       "properties": {
         "name": "宮崎病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3109,6 +3303,7 @@
       "type": "Feature",
       "properties": {
         "name": "長崎県庁",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3125,6 +3320,7 @@
       "type": "Feature",
       "properties": {
         "name": "長崎医療センター",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3141,6 +3337,7 @@
       "type": "Feature",
       "properties": {
         "name": "熊本県警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3157,6 +3354,7 @@
       "type": "Feature",
       "properties": {
         "name": "済生会熊本病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3173,6 +3371,7 @@
       "type": "Feature",
       "properties": {
         "name": "大分県庁",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3189,6 +3388,7 @@
       "type": "Feature",
       "properties": {
         "name": "米盛病院",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3205,6 +3405,7 @@
       "type": "Feature",
       "properties": {
         "name": "沖縄県警察",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3221,6 +3422,7 @@
       "type": "Feature",
       "properties": {
         "name": "鹿部",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3237,6 +3439,7 @@
       "type": "Feature",
       "properties": {
         "name": "竜ヶ崎",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3253,6 +3456,7 @@
       "type": "Feature",
       "properties": {
         "name": "ホンダエアポート",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
@@ -3269,6 +3473,7 @@
       "type": "Feature",
       "properties": {
         "name": "三島村薩摩硫黄島",
+        "attribute": "furuhashilabs",
         "marker-color": "",
         "marker-size": "medium",
         "marker-symbol": "heliport"
