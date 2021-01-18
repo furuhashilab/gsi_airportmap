@@ -11,6 +11,7 @@
 緯度経度は、[地理院地図電子国土WEB](https://maps.gsi.go.jp/#5/35.478565/133.923340/&base=std&ls=std&disp=1&vs=c1j0h0k0l0u0t0z0r0s0m0f1)から参照とする
 
 └緯度経度のズレを防ぐため
+└検索をかけた時のラベルの地点を緯度経度とする
 対象地は国土交通省が提示している空港とヘリポート全般とする
 
 ### 参照
@@ -18,6 +19,8 @@
 * [飛行場一覧](https://www.mlit.go.jp/koku/15_bf_000310.html)
 
 ## 成果物
+
+※このデータは評点がずれているため、不完全データとなっている
 
 <img width="1440" alt="map2d" src="https://github.com/furuhashilab/gsi_airportmap/blob/main/photos.png?raw=true">
 
