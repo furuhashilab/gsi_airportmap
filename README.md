@@ -28,4 +28,4 @@
 
 [GeoJSONファイル](https://github.com/furuhashilab/gsi_airportmap/blob/main/datas)
 
-https://github.com/furuhashilab/gsi_airportmap/blob/main/airports.geojson
+https://github.com/furuhashilab/gsi_airportmap/blob/main/airports_4_furuhashilabs.geojson
